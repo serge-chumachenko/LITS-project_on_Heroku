@@ -519,6 +519,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "LITS/settings/production.py",
+			"settings":
+			{
+				"buffer_size": 3579,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -552,8 +560,9 @@
 	},
 	"expanded_folders":
 	[
-		"/home/serge/Desktop/LITS-project_Heroku",
-		"/home/serge/Desktop/LITS-project_Heroku/LITS/settings"
+		"/home/serge/Desktop/LITS-project_on_Heroku",
+		"/home/serge/Desktop/LITS-project_on_Heroku/LITS",
+		"/home/serge/Desktop/LITS-project_on_Heroku/LITS/settings"
 	],
 	"file_history":
 	[
@@ -743,8 +752,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "LITS/settings/production.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 1425.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],

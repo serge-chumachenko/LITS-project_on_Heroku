@@ -17,3 +17,4 @@ python-dotenv==0.6.4
 six==1.10.0
 sqlparse==0.2.3
 virtualenv==15.1.0
+whitenoise==3.3.0
