@@ -136,3 +136,7 @@ MESSAGE_TAGS = {
 
 INTERNAL_IPS = ['127.0.0.1']
 
+# Simplified static file serving.
+# https://warehouse.python.org/project/whitenoise/
+
+STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
